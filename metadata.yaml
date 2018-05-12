@@ -1,4 +1,8 @@
 _repo: Married-Love-A-New-Contribution-to-the-Solution-of-Sex-Difficulties_47501
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47501-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Stopes, Marie Carmichael
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '42511'
     url: http://www.gutenberg.org/2009/agents/42511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47501#Married-Love-A-New-Contribution-to-the-Solution-of-Sex-Difficulties
 gutenberg_issued: '2014-11-30'
 gutenberg_type: Text
 identifiers:
